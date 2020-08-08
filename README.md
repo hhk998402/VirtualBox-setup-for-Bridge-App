@@ -13,5 +13,5 @@ A) Pre-requisites
       
    - **Install VirtualBox:** Click on the downloaded installation file, and go through the installation. I have made a [video to help guide you through the installation](https://youtu.be/VEIPLhVfXns)
    
-2. **Windows XP ISO:** <br>For installing the Bridge Application, a Windows XP ISO file is required. **I will provide the link for downloading the same when you contact me.** <br><br>You should arrive at a page that looks like this.
-
+2. **Windows XP ISO:** <br>For installing the Bridge Application, a Windows XP ISO file is required. **I will provide the link for downloading the same when you contact me.** <br><br>You should arrive at a page that looks like this. Click on **Direct download**<br>
+<img src="/setup-images/pre-requisites/WindowsXPDownload.png" width="89%" height="70%">
