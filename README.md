@@ -1,2 +1,2 @@
-# VirtualBox-setup-for-Bridge-App
-Detailed instructions for setting up VirtualBox and installing Bridge applications in virtual machine. Prepared for Manoj Kumar of the Karnataka Bridge Association
+# Instructions for setting up VirtualBox VM for running Bridge App on OSX or Linux systems
+```Prepared for Manoj Kumar of the Karnataka Bridge Association```
